@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayExamples/ArrayExamples.iml" filepath="$PROJECT_DIR$/ArrayExamples/ArrayExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BasePowerCalculator/BasePowerCalculator.iml" filepath="$PROJECT_DIR$/BasePowerCalculator/BasePowerCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BootcampLab.iml" filepath="$PROJECT_DIR$/BootcampLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalculatorSwitch/CalculatorSwitch.iml" filepath="$PROJECT_DIR$/CalculatorSwitch/CalculatorSwitch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DoWhileLoop/DoWhileLoop.iml" filepath="$PROJECT_DIR$/DoWhileLoop/DoWhileLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ForLoops/ForLoops.iml" filepath="$PROJECT_DIR$/ForLoops/ForLoops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ForLoopsExamples/ForLoopsExamples.iml" filepath="$PROJECT_DIR$/ForLoopsExamples/ForLoopsExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IfStatement/IfStatement.iml" filepath="$PROJECT_DIR$/IfStatement/IfStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operators/Operators.iml" filepath="$PROJECT_DIR$/Operators/Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PositiveCalculator/PositiveCalculator.iml" filepath="$PROJECT_DIR$/PositiveCalculator/PositiveCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sampler/Sampler.iml" filepath="$PROJECT_DIR$/Sampler/Sampler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Scanners/Scanners.iml" filepath="$PROJECT_DIR$/Scanners/Scanners.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Types/Types.iml" filepath="$PROJECT_DIR$/Types/Types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WhileLoop/WhileLoop.iml" filepath="$PROJECT_DIR$/WhileLoop/WhileLoop.iml" />
+    </modules>
+  </component>
+</project>
