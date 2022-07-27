@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayCommonElements/ArrayCommonElements.iml" filepath="$PROJECT_DIR$/ArrayCommonElements/ArrayCommonElements.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArrayExamples/ArrayExamples.iml" filepath="$PROJECT_DIR$/ArrayExamples/ArrayExamples.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/BasePowerCalculator/BasePowerCalculator.iml" filepath="$PROJECT_DIR$/BasePowerCalculator/BasePowerCalculator.iml" />
@@ -9,14 +10,24 @@
       <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/CalculatorSwitch/CalculatorSwitch.iml" filepath="$PROJECT_DIR$/CalculatorSwitch/CalculatorSwitch.iml" />
       <module fileurl="file://$PROJECT_DIR$/DoWhileLoop/DoWhileLoop.iml" filepath="$PROJECT_DIR$/DoWhileLoop/DoWhileLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FindBigInteger/FindBigInteger.iml" filepath="$PROJECT_DIR$/FindBigInteger/FindBigInteger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FindMinNumber/FindMinNumber.iml" filepath="$PROJECT_DIR$/FindMinNumber/FindMinNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FindStringMiddle/FindStringMiddle.iml" filepath="$PROJECT_DIR$/FindStringMiddle/FindStringMiddle.iml" />
       <module fileurl="file://$PROJECT_DIR$/ForLoops/ForLoops.iml" filepath="$PROJECT_DIR$/ForLoops/ForLoops.iml" />
       <module fileurl="file://$PROJECT_DIR$/ForLoopsExamples/ForLoopsExamples.iml" filepath="$PROJECT_DIR$/ForLoopsExamples/ForLoopsExamples.iml" />
       <module fileurl="file://$PROJECT_DIR$/IfStatement/IfStatement.iml" filepath="$PROJECT_DIR$/IfStatement/IfStatement.iml" />
       <module fileurl="file://$PROJECT_DIR$/Operators/Operators.iml" filepath="$PROJECT_DIR$/Operators/Operators.iml" />
       <module fileurl="file://$PROJECT_DIR$/PositiveCalculator/PositiveCalculator.iml" filepath="$PROJECT_DIR$/PositiveCalculator/PositiveCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReverseString/ReverseString.iml" filepath="$PROJECT_DIR$/ReverseString/ReverseString.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sampler/Sampler.iml" filepath="$PROJECT_DIR$/Sampler/Sampler.iml" />
       <module fileurl="file://$PROJECT_DIR$/Scanners/Scanners.iml" filepath="$PROJECT_DIR$/Scanners/Scanners.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortArrayMin/SortArrayMin.iml" filepath="$PROJECT_DIR$/SortArrayMin/SortArrayMin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SumDigits/SumDigits.iml" filepath="$PROJECT_DIR$/SumDigits/SumDigits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TriangleArea/TriangleArea.iml" filepath="$PROJECT_DIR$/TriangleArea/TriangleArea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TwinPrimeNumbers/TwinPrimeNumbers.iml" filepath="$PROJECT_DIR$/TwinPrimeNumbers/TwinPrimeNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/Types/Types.iml" filepath="$PROJECT_DIR$/Types/Types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VovelConsonantCounter/VovelConsonantCounter.iml" filepath="$PROJECT_DIR$/VovelConsonantCounter/VovelConsonantCounter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VovelCouter/VovelCouter.iml" filepath="$PROJECT_DIR$/VovelCouter/VovelCouter.iml" />
       <module fileurl="file://$PROJECT_DIR$/WhileLoop/WhileLoop.iml" filepath="$PROJECT_DIR$/WhileLoop/WhileLoop.iml" />
     </modules>
   </component>
