@@ -3,5 +3,9 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/HackerRankIfElse/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/HackerRankIfElse/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HackerRankLoops/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HackerRankLoops/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HackerRanksDateTime/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HackerRanksDateTime/src/main/resources" charset="UTF-8" />
   </component>
 </project>
